@@ -25,14 +25,20 @@ import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
+import iiitkota from "./company/iiitkota.png";
 import tesla from "./company/tesla.png";
+import developer from "./company/developer.png";
 
 import carrent from "./carrent.png";
+import carrent1 from "./carrent1.png";
+import carrent2 from "./carrent2.png";
 import jobit from "./jobit.png";
+import jobit1 from "./jobit1.png";
 import tripguide from "./tripguide.png";
+import tripguide1 from "./tripguide1.png";
 
 export {
+  developer,
   logo,
   logo21,
   logo2,
@@ -58,9 +64,13 @@ export {
   threejs,
   meta,
   shopify,
-  starbucks,
+  iiitkota,
   tesla,
   carrent,
+  carrent1,
+  carrent2,
   jobit,
+  jobit1,
   tripguide,
+  tripguide1,
 };
