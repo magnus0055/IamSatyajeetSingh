@@ -221,15 +221,15 @@ const projects = [
       "3D Web Developer Portfolio in React JS , Three Js and TailwindCSS.",
     tags: [
       {
-        name: "nextjs",
+        name: "Reactjs",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Threejs",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Tailwindcss",
         color: "pink-text-gradient",
       },
     ],
@@ -242,17 +242,17 @@ const projects = [
       "An object detection model is trained to detect the presence and location of multiple classes of objects. For example, a model might be trained with images that contain various pieces of fruit, along with a label that specifies the class of fruit they represent.",
     tags: [
       {
-        name: "react",
+        name: "Tensorflow",
         color: "blue-text-gradient",
       },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
+      // {
+      //   name: "restapi",
+      //   color: "green-text-gradient",
+      // },
+      // {
+      //   name: "scss",
+      //   color: "pink-text-gradient",
+      // },
     ],
     image: jobit1,
     source_code_link: "https://github.com/magnus0055/TFOD/ ",

@@ -54,13 +54,16 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Non alias odit
-        exercitationem itaque ab accusantium soluta nobis ipsa iste. Harum eius,
-        reprehenderit expedita quasi ad iste nostrum unde. Voluptatum, repellat.
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet ducimus
-        temporibus architecto dicta neque totam atque sunt ab iusto?
-        Dignissimos, odio harum ea deserunt possimus provident. Accusantium eum
-        cupiditate quasi!
+        As a skilled web developer with expertise in both frontend and backend
+         technologies, I possess a diverse skill set that encompasses ReactJS,
+          Three.js, Bootstrap, Tailwind CSS, and MongoDB. My hands-on experience
+           in these technologies showcases my ability to create dynamic and visually 
+           appealing web applications with seamless functionality.
+
+My proficiency in ReactJS, a popular JavaScript library, underscores my 
+capability to develop interactive and responsive user interfaces. Whether
+ its crafting component-based architectures or implementing state management,
+  my skills empower me to create engaging and user-friendly frontend experiences.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
